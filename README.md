@@ -2,7 +2,7 @@
 
 ## Overview
 
-Checkmark is a modern web application built with React, TypeScript, and Vite. It leverages sass for styling and uses ESLint and Prettier for code quality and formatting.
+Checkmark is a modern web application built with React, TypeScript, and Vite. It leverages TailwindCSS for styling and uses ESLint and Prettier for code quality and formatting.
 
 ## Prerequisites
 
@@ -86,7 +86,7 @@ Checkmark is a modern web application built with React, TypeScript, and Vite. It
 - **React**: A JavaScript library for building user interfaces.
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
 - **Vite**: A fast build tool and development server.
-- **Sass**: A powerful professional grade CSS extension language .
+- **TailwindCSS**: A utility-first CSS framework.
 - **ESLint**: A tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
 - **Prettier**: An opinionated code formatter.
 - **PostCSS**: A tool for transforming CSS with JavaScript plugins.
